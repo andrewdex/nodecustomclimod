@@ -17,3 +17,8 @@ Generate the sample in built AngularSimple App to check how this works and do mo
 ## Usage of the CLI Module - 'nodeclimod' is the command name used in this template
 
 `nodeclimod angularsimple helloworld` - this will create an AngularSimple Project Template in the current directory and run it for you on the builtin configured port:5000
+
+
+<mark>* This is an example CLI Module Template, hoping to release a better version soon ASAP !. </mark>
+
+##Enjoy Coding !
