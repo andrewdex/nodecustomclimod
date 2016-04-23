@@ -12,7 +12,7 @@ Node JS Custom CLI Module - Project Generator Module -  With a Sample AngularJS 
 ## link the project folder to your local npm repo
 `npm link` - this way, you can use this module locally-globally anywhere as you prefer via CLI
 
-##Generate the sample in built AngularSimple App to check how this works and do modify as you wish
+Generate the sample in built AngularSimple App to check how this works and do modify as you wish
 
 ## Usage of the CLI Module - 'nodeclimod' is the command name used in this template
 
