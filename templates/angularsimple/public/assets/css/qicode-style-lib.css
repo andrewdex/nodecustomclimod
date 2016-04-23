@@ -1,0 +1,34 @@
+/*
+QiCode CSS Lib
+Ver : 1.0
+*/
+
+
+/*Color Specific*/
+.text-color-white{color: #ffffff;}
+
+
+/*Alignment Specific*/
+.text-align-right{text-align: right;}
+.text-align-center{text-align: center;}
+
+.font-weight-bold{font-weight: bold}
+
+
+/*Margin Specific Styles*/
+.margin-bottom-20{margin-bottom: 20px;}
+.margin-bottom-10{margin-bottom:10px;}
+
+
+/*Padding Left Right */
+.padding-left-right-40px{padding-left: 40px;padding-right: 40px;}
+
+.display-none{display: none;}
+/*CSS Responsive Media Queries*/
+
+@media (max-width: 767px) {
+
+.on-mobile-text-align-left{text-align: left !important;}
+
+
+}

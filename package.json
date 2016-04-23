@@ -1,0 +1,35 @@
+{
+  "name": "nodecustomclimod",
+  "version": "1.0.0",
+  "description": "NodeJS Custom CLI Based Project Generator Sample Template with Built In Sample Angular Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "nodeclimod": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewdex/nodecustomclimod.git"
+  },
+  "keywords": [
+    "node",
+    "custom",
+    "module",
+    "module",
+    "nodejs",
+    "node",
+    "cli"
+  ],
+  "author": "Dilusha Gonagala",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andrewdex/nodecustomclimod/issues"
+  },
+  "homepage": "https://github.com/andrewdex/nodecustomclimod#readme",
+  "devDependencies": {
+    "fs-extra": "^0.28.0",
+    "mkdirp": "^0.5.1"
+  }
+}
