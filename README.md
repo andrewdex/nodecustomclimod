@@ -14,7 +14,7 @@ Node JS Custom CLI Module - Project Generator Module -  With a Sample AngularJS 
 
 Generate the sample in built AngularSimple App to check how this works and do modify as you wish
 
-## Usage of the CLI Module - 'nodeclimod' is the command name used in this template
+### Usage of the CLI Module - 'nodeclimod' is the command name used in this template
 
 `nodeclimod angularsimple helloworld` - this will create an AngularSimple Project Structure with Bootstrap and angular routings with controller samples in built >> in the current directory and run it for you on the builtin configured port:5000
 
