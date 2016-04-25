@@ -7,11 +7,13 @@ License : MIT
 Version : 1.0
 **/
 
+//Module Dependencies
+var generator = require("./generator.js");
+
 module.exports = {
 
 
   listen: function() {
-    var generator = require("./generator.js");
 
     //Slice out the array
     var userArgs = process.argv.slice(2);
