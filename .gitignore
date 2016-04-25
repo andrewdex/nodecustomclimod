@@ -20,6 +20,9 @@ coverage
 # node-waf configuration
 .lock-wscript
 
+#ignore ds-STore
+.DS_Store
+
 # Compiled binary addons (http://nodejs.org/api/addons.html)
 build/Release
 
