@@ -5,13 +5,14 @@ License : MIT
 Version : 1.0
 **/
 
+//Module Dependencies
+var fs = require('fs-extra');
+var child_process = require('child_process');
+
 module.exports = {
 
   generate: function(projecttype, projectname) {
-    //Module Dependencies
-    var mkdirp = require('mkdirp');
-    var fs = require('fs-extra');
-    var child_process = require('child_process');
+
 
     if (!projecttype == undefined || !projecttype == "" && !projectname == undefined || !projectname == "") {
 
